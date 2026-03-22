@@ -1,4 +1,4 @@
-# Movie-Match
+ Movie-Match
 ---
 The Problem: "Choice Paralysis":
 We’ve all been there—sitting on the couch for 30 minutes scrolling through Netflix, only to end up watching nothing because there are too many options. This project was born out of my own frustration with "Choice Paralysis." I wanted to build a tool that doesn't need a massive database of millions of users to work, but instead just looks at the DNA of a movie (its genre, plot, and director) to suggest something similar.
